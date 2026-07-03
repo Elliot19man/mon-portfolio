@@ -8,7 +8,6 @@ import {
   UserCircleIcon,
   FolderAddIcon,
   Mail01Icon,
-  Download01Icon
 } from "hugeicons-react";
 
 import HomePage from "../components/pages/HomePage";
@@ -29,10 +28,10 @@ export default function Layout() {
   return (
     <div className="min-h-screen flex flex-col bg-background text-foreground pb-16 md:pb-0">
       
-      {/* --- NAVBAR DESKTOP --- */}
-      <nav className="hidden md:flex w-full border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 z-50">
-        <div className="max-w-6xl mx-auto flex items-center justify-between h-12 px-6 w-full">
-          <img src="/logo/manoa-dark.svg" alt="Logo" className="h-6 w-auto dark:invert" />
+      {/* --- NAVBAR DESKTOP (Fixée en haut) --- */}
+      <nav className="hidden md:flex fixed top-0 left-0 w-full border-b border-border bg-background/95 backdrop-blur z-50">
+        <div className="max-w-6xl mx-auto flex items-center justify-between h-13 px-6 w-full">
+          <img src="/logo/manoa-dark.svg" alt="Logo" className="h-7 w-auto dark:invert" />
           
           <div className="flex gap-1 h-full">
             {items.map((item) => {
@@ -51,7 +50,7 @@ export default function Layout() {
                   {isActive && (
                     <motion.span 
                       layoutId="underline" 
-                      className="absolute bottom-[-1px] left-0 w-full h-[2px] bg-foreground" 
+                      className="absolute bottom-0 left-0 w-full h-[2px] bg-foreground" 
                     />
                   )}
                 </button>
@@ -65,8 +64,8 @@ export default function Layout() {
         </div>
       </nav>
 
-      {/* --- DOCK MOBILE / TABLETTE --- */}
-      <nav className="md:hidden fixed bottom-0 w-full border-t border-border bg-background/95 backdrop-blur z-50 px-2">
+      {/* --- DOCK MOBILE (Fixé en bas) --- */}
+      <nav className="md:hidden fixed bottom-0 left-0 w-full border-t border-border bg-background/95 backdrop-blur z-[100] pb-[env(safe-area-inset-bottom)]">
         <div className="flex justify-around items-center h-16">
           {items.map((item) => {
             const Icon = item.icon;
@@ -75,12 +74,12 @@ export default function Layout() {
               <button
                 key={item.title}
                 onClick={() => setActive(item.title)}
-                className={`flex flex-col items-center justify-center w-full h-full gap-1 transition-colors ${
+                className={`flex flex-col items-center justify-center w-full h-full gap-1 transition-all duration-300 ${
                   isActive ? "text-primary" : "text-muted-foreground"
                 }`}
               >
                 <Icon size={22} strokeWidth={isActive ? 2.5 : 1.5} />
-                <span className="text-[10px] font-semibold">{item.title}</span>
+                <span className="text-[10px] font-semibold tracking-wide">{item.title}</span>
               </button>
             );
           })}
@@ -88,7 +87,8 @@ export default function Layout() {
       </nav>
 
       {/* --- CONTENU PRINCIPAL --- */}
-      <main className="flex-1 w-full max-w-6xl mx-auto p-4 md:p-8">
+      {/* pt-20 pour compenser la hauteur de la navbar desktop */}
+      <main className="flex-1 w-full max-w-6xl mx-auto p-4 md:p-8 pt-20 md:pt-24 pb-20">
         <AnimatePresence mode="wait">
           <motion.div
             key={active}
