@@ -5,8 +5,8 @@ import { ModeToggle } from "@/components/mode-toggle";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Home01Icon,
-  UserCircleIcon,
-  FolderAddIcon,
+  User03Icon,
+  Folder03Icon,
   Mail01Icon,
 } from "hugeicons-react";
 
@@ -20,8 +20,8 @@ export default function Layout() {
 
   const items = [
     { title: "Accueil", icon: Home01Icon, component: <HomePage /> },
-    { title: "À propos", icon: UserCircleIcon, component: <AboutPage /> },
-    { title: "Projets", icon: FolderAddIcon, component: <ProjectsPage /> },
+    { title: "À propos", icon: User03Icon, component: <AboutPage /> },
+    { title: "Projets", icon: Folder03Icon, component: <ProjectsPage /> },
     { title: "Contact", icon: Mail01Icon, component: <ContactPage /> },
   ];
 
