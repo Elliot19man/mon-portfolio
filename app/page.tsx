@@ -30,14 +30,14 @@ export default function Layout() {
       
       {/* --- NAVBAR MOBILE (Logo + Theme) --- */}
       <nav className="md:hidden fixed top-0 left-0 w-full h-14 border-b border-border bg-background/95 backdrop-blur z-50 flex items-center justify-between px-4">
-        <img src="/logo/manoa-dark.svg" alt="Logo" className="h-6 w-auto dark:invert" />
+        <img src="/logo/manoa.svg" alt="Logo" className="h-6 w-auto dark:invert" />
         <ModeToggle />
       </nav>
 
       {/* --- NAVBAR DESKTOP (Fixée en haut) --- */}
       <nav className="hidden md:flex fixed top-0 left-0 w-full border-b border-border bg-background/95 backdrop-blur z-50">
-        <div className="max-w-6xl mx-auto flex items-center justify-between h-16 px-6 w-full">
-          <img src="/logo/manoa-dark.svg" alt="Logo" className="h-8 w-auto dark:invert" />
+        <div className="max-w-6xl mx-auto flex items-center justify-between h-14 px-6 w-full">
+          <img src="/logo/manoa.svg" alt="Logo" className="h-6 w-auto dark:invert" />
           
           <div className="flex gap-1 h-full">
             {items.map((item) => {

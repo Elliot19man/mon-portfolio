@@ -4,10 +4,10 @@ import Image from "next/image";
 
 // Ton tableau de projets
 const projects = [
-  { title: "Portfolio v1", desc: "Mon premier portfolio en React.", image: "/images/image1.png" },
-  { title: "E-commerce", desc: "Boutique en ligne full-stack.", image: "/images/image2.png" },
-  { title: "Dashboard", desc: "Tableau de bord analytique.", image: "/images/image3.png" },
-  { title: "App Météo", desc: "Application utilisant une API.", image: "/images/image4.png" },
+  { title: "Portfolio v1", desc: "Mon premier portfolio en Next.js", image: "/images/image1.png" },
+  { title: "E-commerce - Bazary", desc: "Boutique en ligne full-stack avec React.js, Fast API et Mongodb", image: "/images/image2.png" },
+  { title: "Dashboard - FBB Manager", desc: "Tableau de bord analytique.", image: "/images/image3.png" },
+  { title: "App Météo - Meteoko", desc: "Application utilisant une API.", image: "/images/image4.png" },
 ];
 
 export default function ProjectsPage() {
@@ -24,7 +24,7 @@ export default function ProjectsPage() {
         </div>
         
         {/* Grille Responsive */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
           {projects.map((project, index) => (
             <div 
               key={index} 
@@ -47,7 +47,7 @@ export default function ProjectsPage() {
                 <p className="text-muted-foreground text-sm mb-6 leading-relaxed flex-1">
                   {project.desc}
                 </p>
-                <button className="w-full py-2.5 rounded-xl bg-background border border-border font-semibold text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
+                <button className="w-full py-3 rounded-xl bg-background border border-border font-semibold text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
                   Voir le projet
                 </button>
               </div>

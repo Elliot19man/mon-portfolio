@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "Manoa Elliot | Portfolio",
   description: "Portfolio de Manoa Elliot",
   icons: {
-    icon: "/logo/favicon.svg", // ou "/mon-logo.png"
+    icon: "/logo/manoa-icon.svg", // ou "/mon-logo.png"
   },
 };
 

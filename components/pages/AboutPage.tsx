@@ -4,6 +4,12 @@ import { useState } from "react";
 export default function AboutPage() {
   const [activeTab, setActiveTab] = useState("web");
 
+  const tabs = [
+    { id: "web", label: "Web" },
+    { id: "mobile", label: "Mobile" },
+    { id: "design", label: "Design" },
+  ];
+
   return (
     <div className="max-w-4xl mx-auto px-6 py-12 md:py-20">
       <h2 className="text-3xl md:text-4xl font-bold mb-8">À propos de moi</h2>
@@ -16,56 +22,49 @@ export default function AboutPage() {
           </p>
         </section>
 
-        {/* Section Expertises responsive */}
+        {/* Section Expertises avec menu centré */}
         <div className="bg-muted/30 p-6 md:p-8 rounded-3xl border border-border/50">
-          {/* Menu : Passage en flex-wrap sur très petit écran si besoin */}
-          <div className="flex flex-wrap items-center gap-2 md:gap-4 text-xl md:text-2xl font-bold mb-8">
-            <button 
-              onClick={() => setActiveTab("web")}
-              className={`transition-all duration-300 underline-offset-[12px] decoration-2 ${
-                activeTab === "web" ? "underline text-primary" : "text-muted-foreground hover:text-foreground"
-              }`}
-            >
-              Web
-            </button>
-            <span className="text-border text-2xl font-light">|</span>
-            <button 
-              onClick={() => setActiveTab("mobile")}
-              className={`transition-all duration-300 underline-offset-[12px] decoration-2 ${
-                activeTab === "mobile" ? "underline text-primary" : "text-muted-foreground hover:text-foreground"
-              }`}
-            >
-              Mobile
-            </button>
+          
+          {/* Menu centré et responsive */}
+          <div className="flex justify-center flex-wrap items-center gap-6 md:gap-10 text-lg md:text-2xl font-bold mb-10">
+            {tabs.map((tab) => (
+              <button 
+                key={tab.id}
+                onClick={() => setActiveTab(tab.id)}
+                className={`transition-all duration-300 underline-offset-[12px] decoration-2 ${
+                  activeTab === tab.id 
+                    ? "underline text-primary scale-105" 
+                    : "text-muted-foreground hover:text-foreground"
+                }`}
+              >
+                {tab.label}
+              </button>
+            ))}
           </div>
 
-          {/* Liste des outils : Ajustement des marges */}
+          {/* Contenu dynamique */}
           <div className="flex flex-col gap-6">
-            {activeTab === "web" ? (
-              <div className="space-y-6">
-                <div className="border-b border-border/50 pb-4">
-                  <h4 className="font-semibold text-primary mb-1">Backend</h4>
-                  <p className="text-muted-foreground text-sm md:text-base">Python, Node.js, Express</p>
-                </div>
-                <div className="border-b border-border/50 pb-4">
-                  <h4 className="font-semibold text-primary mb-1">Frontend</h4>
-                  <p className="text-muted-foreground text-sm md:text-base">Tailwind CSS, React.js, Next.js, Shadcn</p>
-                </div>
-                <div>
-                  <h4 className="font-semibold text-primary mb-1">Bases de données</h4>
-                  <p className="text-muted-foreground text-sm md:text-base">MongoDB, PostgreSQL</p>
-                </div>
+            {activeTab === "web" && (
+              <div className="space-y-6 animate-in fade-in duration-500">
+                <InfoRow title="Backend" desc="Python, Node.js, Express" />
+                <InfoRow title="Frontend" desc="Tailwind CSS, React.js, Next.js, Shadcn" />
+                <InfoRow title="Bases de données" desc="MongoDB, PostgreSQL" isLast />
               </div>
-            ) : (
-              <div className="space-y-6">
-                <div className="border-b border-border/50 pb-4">
-                  <h4 className="font-semibold text-primary mb-1">Frameworks</h4>
-                  <p className="text-muted-foreground text-sm md:text-base">Flutter, React Native</p>
-                </div>
-                <div>
-                  <h4 className="font-semibold text-primary mb-1">Services & BDD</h4>
-                  <p className="text-muted-foreground text-sm md:text-base">Supabase, Cloudflare, SQLite3</p>
-                </div>
+            )}
+            
+            {activeTab === "mobile" && (
+              <div className="space-y-6 animate-in fade-in duration-500">
+                <InfoRow title="Frameworks" desc="Flutter, React Native" />
+                <InfoRow title="Services & BDD" desc="Supabase, Cloudflare, SQLite3" isLast />
+              </div>
+            )}
+
+            {activeTab === "design" && (
+              <div className="space-y-6 animate-in fade-in duration-500">
+                <InfoRow title="Outils de création" desc="Adobe Illustrator, Figma, Canva" isLast />
+                <p className="text-sm text-muted-foreground italic">
+                  Je réalise également le prototypage UI/UX avant le développement pour garantir une expérience utilisateur fluide.
+                </p>
               </div>
             )}
           </div>
@@ -78,6 +77,16 @@ export default function AboutPage() {
           </p>
         </section>
       </div>
+    </div>
+  );
+}
+
+// Petit composant helper pour garder le code propre
+function InfoRow({ title, desc, isLast }: { title: string, desc: string, isLast?: boolean }) {
+  return (
+    <div className={`pb-4 ${!isLast ? "border-b border-border/50" : ""}`}>
+      <h4 className="font-semibold text-primary mb-1">{title}</h4>
+      <p className="text-muted-foreground text-sm md:text-base">{desc}</p>
     </div>
   );
 }

@@ -15,13 +15,13 @@ export function ModeToggle() {
   return (
     <button
       onClick={() => setTheme(theme === "light" ? "dark" : "light")}
-      className="p-2 rounded-full bg-gray-100 dark:bg-black shadow hover:bg-gray-200 dark:hover:bg-gray-900 transition-colors"
+      className="p-2 rounded-full   hover:bg-transparent dark:hover:bg-transparent  transition-colors"
       aria-label="Changer le thème"
     >
       {theme === "light" ? (
-        <Moon02Icon size={20} className="text-black" />
+        <Moon02Icon size={20} className="text-black hover:text-blue-300" />
       ) : (
-        <Sun01Icon size={20} className="text-white" />
+        <Sun01Icon size={20} className="text-white hover:text-yellow-300" />
       )}
     </button>
   );

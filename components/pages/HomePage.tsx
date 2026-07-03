@@ -54,7 +54,7 @@ export default function HomePage() {
         {/* --- COLONNE DE DROITE --- */}
         <div className="relative w-64 h-64 md:w-[400px] md:h-[400px] lg:w-full lg:max-w-md lg:aspect-[4/5] rounded-3xl overflow-hidden bg-muted shadow-2xl shrink-0">
            <Image 
-             src="/images/manoa.jpg" 
+             src="/manoa.jpg" 
              alt="RAMIARANARIVO Manoa Elliot" 
              fill 
              className="object-cover" 
