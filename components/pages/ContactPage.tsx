@@ -51,7 +51,7 @@ export default function ContactPage() {
           <div className="relative w-full max-w-md aspect-square">
             {/* Ici tu peux mettre ton illustration SVG */}
             <img 
-              src="/work.png" 
+              src="/team-work-animate.svg" 
               alt="Illustration contact" 
               className="object-contain w-full h-full drop-shadow-2xl"
             />
