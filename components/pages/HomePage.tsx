@@ -54,7 +54,7 @@ export default function HomePage() {
           <div className="flex gap-4">
             <a 
               href="/cv.pdf" 
-              download
+              download = "CV_RAMIARANARIVO_Manoa_Elliot.pdf"
               className="flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg"
             >
               <ArrowDown03Icon size={20} />

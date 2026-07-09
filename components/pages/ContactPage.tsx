@@ -35,7 +35,7 @@ export default function ContactPage() {
         <div className="flex justify-center items-center lg:order-2">
           <div className="relative w-full max-w-[280px] md:max-w-md aspect-square">
             <img 
-              src="/work-team.svg" 
+              src="/work-together.svg" 
               alt="Illustration contact" 
               className="object-contain w-full h-full drop-shadow-lg"
             />
