@@ -7,9 +7,9 @@ export default function AboutPage() {
   const [activeTab, setActiveTab] = useState("web");
 
   const stats = [
-    { label: "Années d'expérience", value: "3+" },
-    { label: "Projets réalisés", value: "15+" },
-    { label: "Clients satisfaits", value: "10+" },
+    { label: "Années d'expérience", value: "2" },
+    { label: "Projets réalisés", value: "0" },
+    { label: "Clients satisfaits", value: "0" },
   ];
 
   return (
