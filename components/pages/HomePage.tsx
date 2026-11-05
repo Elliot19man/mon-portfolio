@@ -55,7 +55,7 @@ export default function HomePage() {
             <a 
               href="/cv.pdf" 
               download = "CV_RAMIARANARIVO_Manoa_Elliot.pdf"
-              className="flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg"
+              className="flex items-center gap-2 px-6 py-3 bg-[#0084ceff] text-primary-foreground rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg"
             >
               <ArrowDown03Icon size={20} />
               Télécharger mon CV

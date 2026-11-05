@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="manoa_edit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.73242188"
+     inkscape:cx="405.504"
+     inkscape:cy="251.22133"
+     inkscape:window-width="1920"
+     inkscape:window-height="964"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       radius="8"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,36,0,1 @ F,0,0,1,0,36,0,1 @ F,0,0,1,0,36,0,1 @ F,0,0,1,0,36,0,1"
+       radius="36"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9-4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13-0"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       radius="8"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13-6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       radius="8"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13-62"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       radius="8"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13-0-9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       radius="8"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13-6-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       radius="8"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9218px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0166581px;word-spacing:0.00555271px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.77635;stroke-dasharray:none;stroke-opacity:0.972549"
+       x="197.81563"
+       y="212.60005"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="197.81563"
+         y="212.60005"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9218px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.77635">manoa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9218px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0166581px;word-spacing:0.00555271px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.77635;stroke-dasharray:none;stroke-opacity:0.972549"
+       x="196.77486"
+       y="235.8743"
+       id="text2-0"><tspan
+         sodipodi:role="line"
+         id="tspan2-8"
+         x="196.77486"
+         y="235.8743"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9218px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.77635">coding</tspan></text>
+    <g
+       id="g10"
+       transform="translate(-243.28999,-31.859399)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9218px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0166581px;word-spacing:0.00555271px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.77635;stroke-dasharray:none;stroke-opacity:0.972549"
+         x="315.17343"
+         y="321.17026"
+         id="text2-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-4"
+           x="315.17343"
+           y="321.17026"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9218px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.77635">manoa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9218px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0166581px;word-spacing:0.00555271px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.77635;stroke-dasharray:none;stroke-opacity:0.972549"
+         x="316.64767"
+         y="344.44452"
+         id="text2-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-8-0"
+           x="316.64767"
+           y="344.44452"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9218px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.77635">coding</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9218px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0166581px;word-spacing:0.00555271px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.77635;stroke-dasharray:none;stroke-opacity:0.972549"
+       x="277.08575"
+       y="85.914299"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-1"
+         x="277.08575"
+         y="85.914299"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9218px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.77635">manoa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.9218px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0166581px;word-spacing:0.00555271px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.77635;stroke-dasharray:none;stroke-opacity:0.972549"
+       x="293.79431"
+       y="108.5059"
+       id="text2-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-8-8"
+         x="293.79431"
+         y="108.5059"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9218px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.77635">coding</tspan></text>
+    <path
+       d="m 167.94724,198.48267 -0.0272,0.0274 v 10.21041 l 0.0274,0.0274 5.13273,5.13274 5.13259,5.13258 0.007,0.007 h -0.0145 l -5.12557,5.12553 -5.13259,5.13259 -0.0274,0.0274 v 10.21042 l 0.0272,0.0274 5.13259,-5.13259 5.13258,-5.13259 5.13274,-5.13273 5.12535,-5.12535 0.007,-0.007 -5.13245,-5.13259 -5.13258,-5.13259 -5.13288,-5.13273 z"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.0726337;-inkscape-stroke:hairline;fill-opacity:0.97254902"
+       id="path2" />
+    <path
+       d="m 147.42325,199.46667 0.0272,0.0274 v 10.21041 l -0.0274,0.0274 -5.13273,5.13274 -5.13259,5.13258 -0.007,0.007 h 0.0145 l 5.12557,5.12553 5.13259,5.13259 0.0274,0.0274 v 10.21042 l -0.0272,0.0274 -5.13259,-5.13259 -5.13258,-5.13259 -5.13274,-5.13273 -5.12535,-5.12535 -0.007,-0.007 5.13245,-5.13259 5.13258,-5.13259 5.13288,-5.13273 z"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.0726337;-inkscape-stroke:hairline"
+       id="path2-6" />
+    <path
+       d="m 152.25965,197.75733 -0.0303,0.0305 v 11.36546 l 0.0305,0.0305 5.71336,5.71336 5.71321,5.71321 0.008,0.008 h 11.41015 l 0.008,-0.008 -5.71305,-5.71321 -5.71321,-5.71321 -5.71352,-5.71336 z"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.0808503;-inkscape-stroke:hairline"
+       id="path2-9" />
+    <g
+       id="g4"
+       transform="matrix(1.5866027,0,0,1.5866027,-104.22149,-316.86245)">
+      <path
+         d="m 225.8063,244.56949 -0.0303,0.0305 v 11.36547 l 0.0305,0.0305 5.71336,5.71337 5.71321,5.71321 0.008,0.008 h 11.41015 l 0.008,-0.008 -5.71305,-5.71321 -5.71321,-5.71321 -5.71352,-5.71337 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.0808503;-inkscape-stroke:hairline"
+         id="path2-9-0" />
+      <path
+         d="m 212.01163,244.56948 -0.0303,0.0305 v 11.36546 l 0.0305,0.0305 5.71336,5.71336 5.71321,5.71321 0.008,0.008 h 11.41015 l 0.008,-0.008 -5.71305,-5.71321 -5.71321,-5.71321 -5.71352,-5.71336 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.0808503;-inkscape-stroke:hairline"
+         id="path2-9-0-4" />
+      <path
+         d="m 208.66892,244.56948 0.0303,0.0305 v 11.36546 l -0.0305,0.0305 -5.71336,5.71336 -5.71321,5.71321 -0.008,0.008 H 185.824 l -0.008,-0.008 5.71305,-5.71321 5.71321,-5.71321 5.71352,-5.71336 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.0808503;-inkscape-stroke:hairline"
+         id="path2-9-0-1" />
+    </g>
+    <g
+       id="g6"
+       transform="translate(9.654364,35.322435)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.7079px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0177237px;word-spacing:0.00590791px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.95395;stroke-dasharray:none;stroke-opacity:0.972549"
+         x="145.63553"
+         y="328.80511"
+         id="text2-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-3"
+           x="145.63553"
+           y="328.80511"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.7079px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.95395">manoa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.7079px;line-height:0;font-family:'Noto Sans Gothic';-inkscape-font-specification:'Noto Sans Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0177237px;word-spacing:0.00590791px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:2.95395;stroke-dasharray:none;stroke-opacity:0.972549"
+         x="145.49362"
+         y="354.53366"
+         id="text2-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan2-8-83"
+           x="145.49362"
+           y="354.53366"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.7079px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.95395">coding</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(28.963093,-10.527875)">
+      <path
+         d="m 66.063317,360.49138 -0.0195,12.11892 -0.0198,12.18394 -0.0198,12.18393 -0.0198,12.18417 h 0.0171 l 12.16655,0.02 12.18418,0.02 12.183933,0.0197 12.11893,0.02 -12.09917,-12.13869 -0.065,-0.0652 -10.582923,-9.236 -13.70255,9.196 -0.0176,0.0174 v -0.0174 l 0.0198,-12.18393 0.0198,-12.11893 -0.065,-0.0652 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.121921;-inkscape-stroke:hairline"
+         id="path3"
+         sodipodi:nodetypes="cccccccccccccccccccc" />
+      <path
+         d="m 119.17469,404.26912 0.0195,-12.11892 0.0198,-12.18394 0.0198,-12.18393 0.0198,-12.18417 h -0.0171 l -12.16655,-0.02 -12.184182,-0.02 -12.183933,-0.0197 -12.11893,-0.02 12.09917,12.13869 0.065,0.0652 10.582923,9.236 13.702552,-9.196 0.0176,-0.0174 v 0.0174 l -0.0198,12.18393 -0.0198,12.11893 0.065,0.0652 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.121921;-inkscape-stroke:hairline"
+         id="path3-8"
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:path-effect="#path-effect9"
+         inkscape:original-d="m 119.17469,404.26912 0.0195,-12.11892 0.0198,-12.18394 0.0198,-12.18393 0.0198,-12.18417 h -0.0171 l -12.16655,-0.02 -12.184182,-0.02 -12.183933,-0.0197 -12.11893,-0.02 12.09917,12.13869 0.065,0.0652 10.582923,9.236 13.702552,-9.196 0.0176,-0.0174 v 0.0174 l -0.0198,12.18393 -0.0198,12.11893 0.065,0.0652 z" />
+    </g>
+    <g
+       id="g8-5"
+       transform="translate(126.15692,77.833535)">
+      <path
+         d="m 66.063317,360.49138 -0.0195,12.11892 -0.0198,12.18394 -0.0198,12.18393 -0.0198,12.18417 h 0.0171 l 12.16655,0.02 12.18418,0.02 12.183933,0.0197 12.11893,0.02 -12.09917,-12.13869 -0.065,-0.0652 -10.582923,-9.236 -13.70255,9.196 -0.0176,0.0174 v -0.0174 l 0.0198,-12.18393 0.0198,-12.11893 -0.065,-0.0652 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.121921;-inkscape-stroke:hairline"
+         id="path3-4"
+         sodipodi:nodetypes="cccccccccccccccccccc" />
+      <path
+         d="m 119.17469,404.26912 0.0195,-12.11892 0.0198,-12.18394 0.0198,-12.18393 0.0198,-12.18417 h -0.0171 l -12.16655,-0.02 -12.184182,-0.02 -12.183933,-0.0197 -12.11893,-0.02 12.09917,12.13869 0.065,0.0652 10.582923,9.236 13.702552,-9.196 0.0176,-0.0174 v 0.0174 l -0.0198,12.18393 -0.0198,12.11893 0.065,0.0652 z"
+         style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:0.972549;stroke:none;stroke-width:0.121921;-inkscape-stroke:hairline"
+         id="path3-8-8"
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:path-effect="#path-effect9-4"
+         inkscape:original-d="m 119.17469,404.26912 0.0195,-12.11892 0.0198,-12.18394 0.0198,-12.18393 0.0198,-12.18417 h -0.0171 l -12.16655,-0.02 -12.184182,-0.02 -12.183933,-0.0197 -12.11893,-0.02 12.09917,12.13869 0.065,0.0652 10.582923,9.236 13.702552,-9.196 0.0176,-0.0174 v 0.0174 l -0.0198,12.18393 -0.0198,12.11893 0.065,0.0652 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.4719px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0286193px;word-spacing:0.00953977px;writing-mode:lr-tb;direction:ltr;fill:#000204;fill-opacity:1;stroke:none;stroke-width:4.54303;stroke-dasharray:none;stroke-opacity:1"
+       x="247.90468"
+       y="454.26944"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="247.90468"
+         y="454.26944"
+         style="stroke-width:4.54303">MANOA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.4719px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0286193px;word-spacing:0.00953977px;writing-mode:lr-tb;direction:ltr;fill:#000204;fill-opacity:1;stroke:none;stroke-width:4.54303;stroke-dasharray:none;stroke-opacity:1"
+       x="248.10255"
+       y="480.73889"
+       id="text13-0"><tspan
+         sodipodi:role="line"
+         id="tspan13-5"
+         x="248.10255"
+         y="480.73889"
+         style="stroke-width:4.54303">TECHNOLOGY</tspan></text>
+    <g
+       id="g15"
+       transform="translate(-10.922667,77.824001)">
+      <g
+         id="g13"
+         transform="translate(-57.581723,93.378308)"
+         style="fill:#0041b7;fill-opacity:1">
+        <path
+           style="fill:#0041b7;fill-opacity:1;stroke:none;stroke-width:4.7622;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13"
+           width="15.018666"
+           height="51.882668"
+           x="389.12"
+           y="150.18666"
+           inkscape:path-effect="#path-effect13"
+           sodipodi:type="rect"
+           d="m 397.12,150.18666 a 7.5253464,7.5253464 48.738446 0 1 7.01866,8 l 0,35.88267 a 8,8 135 0 1 -8,8 7.5253464,7.5253464 48.738446 0 1 -7.01866,-8 v -35.88267 a 8,8 135 0 1 8,-8 z"
+           transform="matrix(0.522391,0.31961004,-0.31961004,0.522391,239.0808,-54.134417)" />
+        <path
+           style="fill:#0041b7;fill-opacity:1;stroke:none;stroke-width:4.7622;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13-0"
+           width="15.018666"
+           height="51.882668"
+           x="389.12"
+           y="150.18666"
+           inkscape:path-effect="#path-effect13-0"
+           sodipodi:type="rect"
+           d="m 397.12,150.18666 a 7.5253464,7.5253464 48.738446 0 1 7.01866,8 l 0,35.88267 a 8,8 135 0 1 -8,8 7.5253464,7.5253464 48.738446 0 1 -7.01866,-8 v -35.88267 a 8,8 135 0 1 8,-8 z"
+           transform="matrix(0.522391,0.31961004,-0.31961004,0.522391,252.65923,-56.484087)" />
+        <path
+           style="fill:#0041b7;fill-opacity:1;stroke:none;stroke-width:4.7622;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13-8"
+           width="15.018666"
+           height="51.882668"
+           x="389.12"
+           y="150.18666"
+           inkscape:path-effect="#path-effect13-6"
+           sodipodi:type="rect"
+           d="m 397.12,150.18666 a 7.5253464,7.5253464 48.738446 0 1 7.01866,8 l 0,35.88267 a 8,8 135 0 1 -8,8 7.5253464,7.5253464 48.738446 0 1 -7.01866,-8 v -35.88267 a 8,8 135 0 1 8,-8 z"
+           transform="matrix(0.522391,0.31961004,-0.31961004,0.522391,266.1322,-58.170988)" />
+      </g>
+      <g
+         id="g14"
+         transform="translate(0,11.251826)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9558px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0271472px;word-spacing:0.00904905px;writing-mode:lr-tb;direction:ltr;fill:#000204;fill-opacity:1;stroke:none;stroke-width:4.30935;stroke-dasharray:none;stroke-opacity:1"
+           x="374.49225"
+           y="244.16974"
+           id="text13-3"><tspan
+             sodipodi:role="line"
+             id="tspan13-6"
+             x="374.49225"
+             y="244.16974"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9558px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.30935">manoa</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6706px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0133012px;word-spacing:0.0044337px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11142;stroke-dasharray:none;stroke-opacity:1"
+           x="384.71985"
+           y="257.80835"
+           id="text14"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             x="384.71985"
+             y="257.80835"
+             style="stroke-width:2.11142">technology</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g13-0"
+       transform="matrix(1.8953351,0,0,1.8953351,-413.85292,-266.26895)"
+       style="fill:#000308;fill-opacity:1">
+      <path
+         style="fill:#000308;fill-opacity:1;stroke:none;stroke-width:4.7622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13-9"
+         width="15.018666"
+         height="51.882668"
+         x="389.12"
+         y="150.18666"
+         inkscape:path-effect="#path-effect13-62"
+         sodipodi:type="rect"
+         d="m 397.12,150.18666 a 7.5253464,7.5253464 48.738446 0 1 7.01866,8 l 0,35.88267 a 8,8 135 0 1 -8,8 7.5253464,7.5253464 48.738446 0 1 -7.01866,-8 v -35.88267 a 8,8 135 0 1 8,-8 z"
+         transform="matrix(0.82268909,0.39096511,-0.50333889,0.63901828,185.38299,-12.48102)" />
+      <path
+         style="fill:#000308;fill-opacity:1;stroke:none;stroke-width:4.7622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13-0-3"
+         width="15.018666"
+         height="51.882668"
+         x="389.12"
+         y="150.18666"
+         inkscape:path-effect="#path-effect13-0-9"
+         sodipodi:type="rect"
+         d="m 397.12,150.18666 a 7.5253464,7.5253464 48.738446 0 1 7.01866,8 l 0,35.88267 a 8,8 135 0 1 -8,8 7.5253464,7.5253464 48.738446 0 1 -7.01866,-8 v -35.88267 a 8,8 135 0 1 8,-8 z"
+         transform="matrix(0.82268909,0.39096511,-0.50333889,0.63901828,203.36361,-15.355272)" />
+      <path
+         style="fill:#000308;fill-opacity:1;stroke:none;stroke-width:4.7622;stroke-dasharray:none;stroke-opacity:1"
+         id="rect13-8-6"
+         width="15.018666"
+         height="51.882668"
+         x="389.12"
+         y="150.18666"
+         inkscape:path-effect="#path-effect13-6-1"
+         sodipodi:type="rect"
+         d="m 397.12,150.18666 a 7.5253464,7.5253464 48.738446 0 1 7.01866,8 l 0,35.88267 a 8,8 135 0 1 -8,8 7.5253464,7.5253464 48.738446 0 1 -7.01866,-8 v -35.88267 a 8,8 135 0 1 8,-8 z"
+         transform="matrix(0.82268909,0.39096511,-0.50333889,0.63901828,220.61092,-17.418782)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:69.1946px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0671932px;word-spacing:0.0223976px;writing-mode:lr-tb;direction:ltr;fill:#000204;fill-opacity:1;stroke:none;stroke-width:10.6663;stroke-dasharray:none;stroke-opacity:1"
+       x="489.17197"
+       y="216.05365"
+       id="text13-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan13-6-6"
+         x="489.17197"
+         y="216.05365"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:69.1946px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:10.6663">manoa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4672px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.019919px;word-spacing:0.00663961px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.16192;stroke-dasharray:none;stroke-opacity:1"
+       x="466.36929"
+       y="240.09656"
+       id="text14-2"><tspan
+         sodipodi:role="line"
+         id="tspan14-6"
+         x="466.36929"
+         y="240.09656"
+         style="stroke-width:3.16192">technology</tspan></text>
+  </g>
+</svg>

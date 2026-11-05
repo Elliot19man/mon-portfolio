@@ -30,14 +30,14 @@ export default function Layout() {
       
       {/* --- NAVBAR MOBILE (Logo + Theme) --- */}
       <nav className="md:hidden fixed top-0 left-0 w-full h-14 border-b border-border bg-background/95 backdrop-blur z-50 flex items-center justify-between px-4">
-        <img src="/manoa2.png" alt="Logo" className="h-6 w-auto dark:invert" />
+        <img src="/manoa3.svg" alt="Logo" className="h-6 w-auto dark:invert" />
         <ModeToggle />
       </nav>
 
       {/* --- NAVBAR DESKTOP (Fixée en haut) --- */}
       <nav className="hidden md:flex fixed top-0 left-0 w-full border-b border-border bg-background/95 backdrop-blur z-50">
         <div className="max-w-6xl mx-auto flex items-center justify-between h-14 px-6 w-full">
-          <img src="/manoa2.png" alt="Logo" className="h-7 w-auto dark:invert" />
+          <img src="/manoa3.svg" alt="Logo" className="h-7 w-auto dark:invert" />
           
           <div className="flex gap-1 h-full">
             {items.map((item) => {
@@ -48,7 +48,7 @@ export default function Layout() {
                   key={item.title}
                   onClick={() => setActive(item.title)}
                   className={`relative flex items-center gap-2 px-4 transition-colors duration-300 ${
-                    isActive ? "text-foreground" : "text-muted-foreground hover:text-foreground"
+                    isActive ? "text-[#0084ceff]" : "text-muted-foreground hover:text-foreground"
                   }`}
                 >
                   <Icon size={20} strokeWidth={isActive ? 2 : 1.5} />
@@ -56,7 +56,7 @@ export default function Layout() {
                   {isActive && (
                     <motion.span 
                       layoutId="underline" 
-                      className="absolute bottom-0 left-0 w-full h-[2px] bg-foreground" 
+                      className="absolute bottom-0 left-0 w-full h-[2px] bg-[#0084ceff]" 
                     />
                   )}
                 </button>

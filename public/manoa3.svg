@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="304.91876"
+   height="75.048126"
+   viewBox="0 0 304.91876 75.048126"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="manoa3.svg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="304.91876"
+       height="75.048126"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,20.274191,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,20.274191,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,20.19614,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.440003,-123.58527)">
+    <g
+       id="g4">
+      <g
+         id="g5"
+         transform="matrix(0.86748894,0,0,0.86748894,44.665063,-54.202949)"
+         style="fill:#3609ff;fill-opacity:1">
+        <path
+           d="m 125.78547,227.86259 0.006,20.4668 0.006,20.46679 3e-5,0.16332 a 20.299539,20.299539 134.95299 0 1 -20.2702,20.30349 l 0,0 a 363.30685,363.30685 179.96672 0 1 -20.65942,0.012 l -20.4668,0.006 -0.004,-20.35742 0.10938,-0.10938 9.27929,-0.002 v -16.50195 l 10.1836,8.0625 11.45508,-8.0625 0.16796,16.49414 9.73633,-0.002 0.0312,-0.002 -0.0293,-0.0293 -0.006,-20.4375 -0.006,-20.35547 0.10937,-0.10937 z"
+           style="vector-effect:non-scaling-stroke;fill:#3609ff;fill-opacity:1;stroke-width:0.204801;-inkscape-stroke:hairline"
+           id="path49-9"
+           sodipodi:nodetypes="cccccccccccccccccccccc"
+           inkscape:path-effect="#path-effect2"
+           inkscape:original-d="m 125.78547,227.86259 0.006,20.4668 0.006,20.46679 0.004,20.43751 -20.27417,0.0293 -5.985249,0.24536 -14.674171,-0.23336 -20.4668,0.006 -0.004,-20.35742 0.10938,-0.10938 9.27929,-0.002 v -16.50195 l 10.1836,8.0625 11.45508,-8.0625 0.16796,16.49414 9.73633,-0.002 0.0312,-0.002 -0.0293,-0.0293 -0.006,-20.4375 -0.006,-20.35547 0.10937,-0.10937 z" />
+        <path
+           d="m 104.94172,206.98759 -20.46679,0.006 -20.4668,0.006 -0.433993,0.004 a 20.385121,20.385121 134.38032 0 0 -20.028807,20.4668 l 0,0 0.006,20.4668 0.006,20.4668 20.35742,-0.006 0.10937,-0.10938 -0.006,-20.35547 -0.006,-20.4375 -0.0293,-0.0293 0.0312,-0.002 20.12695,19.36328 20.69532,-19.37304 0.10937,-0.10938 z"
+           style="vector-effect:non-scaling-stroke;fill:#3609ff;fill-opacity:1;stroke-width:0.204801;-inkscape-stroke:hairline"
+           id="path48-1"
+           inkscape:path-effect="#path-effect3"
+           inkscape:original-d="m 104.94172,206.98759 -20.46679,0.006 -20.4668,0.006 -0.433993,0.004 -20.032807,0.27066 0.004,20.19614 0.006,20.4668 0.006,20.4668 20.35742,-0.006 0.10937,-0.10938 -0.006,-20.35547 -0.006,-20.4375 -0.0293,-0.0293 0.0312,-0.002 20.12695,19.36328 20.69532,-19.37304 0.10937,-0.10938 z"
+           sodipodi:nodetypes="cccccccccccccccccc" />
+      </g>
+      <g
+         id="g2"
+         transform="translate(-10.24,-70.113993)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:65.7954px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.0558468px;word-spacing:0.0186156px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:8.86512"
+           x="173.13103"
+           y="242.32208"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             x="173.13103"
+             y="242.32208"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:65.7954px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:8.86512">Manoa</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.3128px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-0.023183px;word-spacing:0.00772767px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:3.68007"
+           x="177.16405"
+           y="268.39236"
+           id="text2"><tspan
+             sodipodi:role="line"
+             id="tspan2"
+             x="177.16405"
+             y="268.39236"
+             style="stroke-width:3.68007">CODING</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
